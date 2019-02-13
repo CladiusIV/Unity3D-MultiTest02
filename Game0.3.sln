@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game0.3.CSharp.Plugins", "Game0.3.CSharp.Plugins.csproj", "{27F03410-F454-C5B6-A153-F5D62A35FAD1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game0.3.CSharp", "Game0.3.CSharp.csproj", "{29200604-F36C-2C76-18F9-014245EF52FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27F03410-F454-C5B6-A153-F5D62A35FAD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27F03410-F454-C5B6-A153-F5D62A35FAD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27F03410-F454-C5B6-A153-F5D62A35FAD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27F03410-F454-C5B6-A153-F5D62A35FAD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29200604-F36C-2C76-18F9-014245EF52FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29200604-F36C-2C76-18F9-014245EF52FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29200604-F36C-2C76-18F9-014245EF52FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29200604-F36C-2C76-18F9-014245EF52FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
